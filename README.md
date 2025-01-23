@@ -198,6 +198,7 @@ Design Features:
 
   * Mini Chambers Integrated with Each Turbine (Local Optimization)
     - These smaller chambers act as immediate pressure regulators and flow optimizers, ensuring that each turbine operates at peak efficiency.
+    - Prevents energy spikes and inefficiencies.
     - By keeping them localized, they avoid interfering with the overall energy space while still providing on-demand flow regulation and buffering.
     - They enhance precision control, improving each turbine’s performance without creating unnecessary turbulence.
 
@@ -206,7 +207,7 @@ Design Features:
       * Serve as primary energy accumulators, collecting and regulating excess fluid/gas to provide a stable input to turbines over time.
       * They ensure that the turbines always receive a steady and controlled flow, even during fluctuations.
     - Top Chambers:
-      * Act as overflow reservoirs and high-pressure release points, capturing any excess kinetic energy and storing it for future use.
+      * Act as overflow reservoirs and high-pressure release points, capturing any excess kinetic energy and redistributing energy during demand peaks.and storing it for future use.
       * They prevent energy loss and balance overall system pressure, ensuring a smooth energy distribution cycle.
       
     This combination ensures a high-capacity storage system, capable of handling peak demand and long-term energy retention.
